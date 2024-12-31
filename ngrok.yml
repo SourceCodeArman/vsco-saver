@@ -1,0 +1,8 @@
+authtoken: YOUR_AUTH_TOKEN
+tunnels:
+  web:
+    proto: http
+    addr: 3000
+  api:
+    proto: http
+    addr: 5000
